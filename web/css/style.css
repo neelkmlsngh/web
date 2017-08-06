@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.newsest{
+	background-image:url(../image/news-3.jpg);
+}
+.news{
+	background-image:url(../image/news-3.jpg);
+	color:#FFF;
+	font-size:70px;
+}
+.trend{
+	margin-left:20px;
+}
