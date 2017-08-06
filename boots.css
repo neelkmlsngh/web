@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+#slider{
+margin-top:60px;
+}
+#slider .item{
+	height:200px;
+}
+#slide1{
+	background: url(IMG20170531145704.jpg) center no-repeat;
+	float:left;
+}
+#slide1{
+	background: url(https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634_960_720.png) center no-repeat;
+	float:left;
+}
+#slide1{
+	background: url(https://www.planwallpaper.com/static/images/desktop-year-of-the-tiger-images-wallpaper.jpg) center no-repeat;
+	float:left;
+}
+.carousel-caption{
+	font-size:18px;
+}
